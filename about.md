@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+* Android Developer self-employed working on POS (Point Of Sale) Application.
 
-### More Information
+* Living in Cracow.
 
-A place to include any other types of information that you'd like to include about yourself.
+* Love simplicity.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rmszala@gmail.com](mailto:rmszala@gmail.com)
